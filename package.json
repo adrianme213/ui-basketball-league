@@ -1,0 +1,51 @@
+{
+  "name": "ui-basketball-league",
+  "version": "1.0.0",
+  "description": "UI for basketball league project.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -w --config webpack.config.js",
+    "jsonserver": "json-server -w server/db.json",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianme213/ui-basketball-league.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "react",
+    "basketball"
+  ],
+  "author": "Adrian Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianme213/ui-basketball-league/issues"
+  },
+  "homepage": "https://github.com/adrianme213/ui-basketball-league#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.4",
+    "css-loader": "^6.7.1",
+    "jest": "^27.5.1",
+    "json-loader": "^0.5.7",
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "sass-loader": "^12.6.0",
+    "ts-jest": "^27.1.4",
+    "ts-loader": "^9.2.8",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
