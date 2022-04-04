@@ -1,4 +1,5 @@
 const path = require('path');
+const BrowserSyncPlugin = require('browser-sync-webpack-plugin')
 const SRC_DIR = path.join(__dirname, '/src');
 const DIST_DIR = path.join(__dirname, '/dist');
 
@@ -40,6 +41,15 @@ const webpackConfig = {
   resolve: {
     extensions: ['.tsx', '.ts', '.js'],
   },
+  plugins: [
+    new BrowserSyncPlugin({
+      // browse to http://localhost:3000/ during development,
+      // ./dist directory is being served
+      host: 'localhost',
+      port: 3000,
+      server: { baseDir: ['dist'] }
+    })
+  ],
   mode: 'development',
 };
 
