@@ -1,0 +1,201 @@
+{
+  "gameentry": [{
+      "id": "1",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "1:00PM",
+      "awayTeam": {
+        "ID": "81",
+        "City": "Toronto",
+        "Name": "Raptors",
+        "Abbreviation": "TOR"
+      },
+      "homeTeam": {
+        "ID": "83",
+        "City": "New York",
+        "Name": "Knicks",
+        "Abbreviation": "NYK"
+      },
+      "location": "Madison Square Garden"
+    },
+    {
+      "id": "2",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "3:30PM",
+      "awayTeam": {
+        "ID": "89",
+        "City": "Chicago",
+        "Name": "Bulls",
+        "Abbreviation": "CHI"
+      },
+      "homeTeam": {
+        "ID": "91",
+        "City": "Atlanta",
+        "Name": "Hawks",
+        "Abbreviation": "ATL"
+      },
+      "location": "Philips Arena"
+    },
+    {
+      "id": "3",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "3:30PM",
+      "awayTeam": {
+        "ID": "101",
+        "City": "Golden State",
+        "Name": "Warriors",
+        "Abbreviation": "GSW"
+      },
+      "homeTeam": {
+        "ID": "100",
+        "City": "Minnesota",
+        "Name": "Timberwolves",
+        "Abbreviation": "MIN"
+      },
+      "location": "Target Center"
+    },
+    {
+      "id": "4",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "4:00PM",
+      "awayTeam": {
+        "ID": "98",
+        "City": "Utah",
+        "Name": "Jazz",
+        "Abbreviation": "UTA"
+      },
+      "homeTeam": {
+        "ID": "110",
+        "City": "New Orleans",
+        "Name": "Pelicans",
+        "Abbreviation": "NOP"
+      },
+      "location": "Smoothie King Center"
+    },
+    {
+      "id": "5",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "5:00PM",
+      "awayTeam": {
+        "ID": "103",
+        "City": "Sacramento",
+        "Name": "Kings",
+        "Abbreviation": "SAC"
+      },
+      "homeTeam": {
+        "ID": "99",
+        "City": "Denver",
+        "Name": "Nuggets",
+        "Abbreviation": "DEN"
+      },
+      "location": "Pepsi Center"
+    },
+    {
+      "id": "6",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "7:00PM",
+      "awayTeam": {
+        "ID": "109",
+        "City": "Houston",
+        "Name": "Rockets",
+        "Abbreviation": "HOU"
+      },
+      "homeTeam": {
+        "ID": "108",
+        "City": "Dallas",
+        "Name": "Mavericks",
+        "Abbreviation": "DAL"
+      },
+      "location": "American Airlines Center"
+    },
+    {
+      "id": "7",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "7:30PM",
+      "awayTeam": {
+        "ID": "85",
+        "City": "Philadelphia",
+        "Name": "76ers",
+        "Abbreviation": "PHI"
+      },
+      "homeTeam": {
+        "ID": "84",
+        "City": "Brooklyn",
+        "Name": "Nets",
+        "Abbreviation": "BRO"
+      },
+      "location": "Barclays Center"
+    },
+    {
+      "id": "8",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "7:30PM",
+      "awayTeam": {
+        "ID": "87",
+        "City": "Indiana",
+        "Name": "Pacers",
+        "Abbreviation": "IND"
+      },
+      "homeTeam": {
+        "ID": "82",
+        "City": "Boston",
+        "Name": "Celtics",
+        "Abbreviation": "BOS"
+      },
+      "location": "TD Garden"
+    },
+    {
+      "id": "9",
+      "scheduleStatus": "Normal",
+      "originalDate": null,
+      "originalTime": null,
+      "delayedOrPostponedReason": null,
+      "date": "2018-03-11",
+      "time": "9:00PM",
+      "awayTeam": {
+        "ID": "86",
+        "City": "Cleveland",
+        "Name": "Cavaliers",
+        "Abbreviation": "CLE"
+      },
+      "homeTeam": {
+        "ID": "105",
+        "City": "Los Angeles",
+        "Name": "Lakers",
+        "Abbreviation": "LAL"
+      },
+      "location": "Staples Center"
+    }
+  ]
+}
